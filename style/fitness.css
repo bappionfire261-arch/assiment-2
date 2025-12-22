@@ -7,33 +7,38 @@
 
 /* nav style */
 .navbar {
-    width: 1440px;
-    height: 100px;
+    width: 1160px;
+    height: 45px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-left: 10%;
+    
    
 } 
 .fiter {
     text-decoration: none;
     margin: 20px;
+    color: white;
    
 }
 .container {
     max-width: 1440px;
     height: 715px;
+    background-color: black;
 }
 .content {
     display: flex;
     list-style: none;
     align-items: center;  
     margin: 0 200px; 
+    margin-top: 65px;
 }
 .mein {
     font-size: 35px;
     font-weight: 800;
     color: #E6533C;
+    margin-top: 100px;
 }
 .color {
     width: 90px;
@@ -44,3 +49,67 @@
     border: none;
 }
 /* nav ses */
+
+/* title section suru */
+.title {
+    max-width: 1160px;
+    height: 715px;
+    /* margin: 0 auto; */
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.image {
+    width: 390px;
+    height: 580px;
+  
+}
+.img {
+    margin-left: 160px;
+}
+.img-box {
+    width: 206px;
+    height: 96px;
+    margin-top: -150px;
+    margin-left: 150px;
+    color: white;
+
+   
+}
+
+.div {
+    margin-top:-10px;
+}
+.shop {
+    font-size: 78px;
+    font-weight: 900;
+    color: white;
+}
+.tiyp {
+    color: white;
+}
+.btn {
+    font-size: 18px;
+    font-weight: 600;
+    width: 224px;
+    height: 54px;
+    background-color: #E6533C;
+    color: #FFFFFF;
+    border-radius: 42px;
+    padding: 16px 40px 16px 40px;
+    margin-left: 14px;
+    
+}
+.bnt {
+    font-size: 18px;
+    font-weight: 400;
+      width: 224px;
+    height: 54px;
+    background-color: #e6533c2a;
+    color: #FFFFFF;
+    border: 1px solid white;
+    border-radius: 42px;
+    padding: 16px 40px 16px 40px;
+     
+}
