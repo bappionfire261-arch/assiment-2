@@ -68,6 +68,7 @@
 }
 .img {
     margin-left: 160px;
+
 }
 .img-box {
     width: 206px;
@@ -77,6 +78,9 @@
     color: white;
 
    
+}
+.img-1 {
+    
 }
 
 .div {
@@ -189,5 +193,51 @@
 .sstti {
     margin-top: -40px;
 }
+/* description ses */
 
 
+/* lainer section suru */
+.line {
+    width: 661px;
+    height: 119px;
+    margin-left:190px;
+    margin-top: 100px;
+    color: white;
+}
+.lin {
+    font-size: 16px;
+    font-weight: 400px;
+    opacity: 0.8;
+}
+.img-bic{
+    width: 250px;
+    height: 201px;
+}
+.img-gic {
+    width: 529px;
+    height: 201px;
+}
+.img-dic {
+    width: 198px;
+    height: 201px;
+} 
+
+.img-top {
+    width: 400px;
+    height: 201px;
+}
+.img-fot {
+    width: 250px;
+    height: 201px;
+}
+.img-got {
+    width: 327px;
+    height: 201px;
+}
+
+.title-lainer {
+    margin-left: 190px;
+    margin-top: 58px;
+}
+
+    
