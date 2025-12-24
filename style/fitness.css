@@ -212,6 +212,7 @@
 .img-bic{
     width: 250px;
     height: 201px;
+
 }
 .img-gic {
     width: 529px;
@@ -240,4 +241,97 @@
     margin-top: 58px;
 }
 
+/* lainer section ses */
+
+
+/* title section suru */
+.title-team {
+    width: 671px;
+    height: 119px;
+    margin: 0 auto;
+    color: white;
+    margin-top: 140px;
+    text-align: center;
+}
+.team {
+    font-size: 48px;
+    font-weight: 900;
+}
+.taem {
+    font-size: 14px;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-bottom: 10px;
     
+}
+.container-team {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 1060px;
+    height: 604px;
+    margin-left: -200px;
+ 
+}
+
+.content-team  {
+    width: 327px;
+    height: 272px;
+    background-image: url(../images/trainer1.png);
+   background-size: cover;
+   border-radius: 18px;
+   margin-top: 58px;
+}
+.content-tam {
+    width: 327px;
+    height: 272px;
+    background-image: url(../images/trainer2.png);
+    background-size: cover;
+    border-radius: 18px;
+    margin-top: 60px;
+}
+.content-tem {
+       width: 327px;
+    height: 272px;
+    background-image: url(../images/trainer3.png);
+    background-size: cover;
+    border-radius: 18px;
+    margin-top: 60px; 
+}
+.content-teim {
+    width: 327px;
+    height: 272px;
+    background-image: url(../images/trainer4.png);
+    background-position: right;
+    background-size: cover;
+    border-radius: 18px;
+    margin-top: 60px; 
+}
+.content-tiam {
+    width: 327px;
+    height: 272px;
+    background-image: url(../images/trainer5.png);
+    background-size: cover;
+    border-radius: 18px;
+    margin-top: 60px; 
+}
+.content-tema {
+     width: 327px;
+    height: 272px;
+    background-image: url(../images/trainer6.png);
+    background-size: cover;
+    border-radius: 18px;
+    margin-top: 60px; 
+}
+.chip {
+    margin-left:-160px; 
+   padding: 200px 100px 100px 200px;
+   text-align:left;
+   
+}
+.chip p {
+    font-size: 14px;
+    font-weight: 200;
+    
+}
+
+
